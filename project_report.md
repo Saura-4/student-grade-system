@@ -2,7 +2,7 @@
 ## Comprehensive Technical Project Report
 
 - **Author**: Saurav Chourasia
-- **GitHub Repository**: [https://github.com/DevyanshuNegi/student-grade-system](https://github.com/DevyanshuNegi/student-grade-system)
+- **GitHub Repository**: [https://github.com/Saura-4/student-grade-system](https://github.com/Saura-4/student-grade-system)
 - **Technology Stack**: Pure Python 3.7+ (Standard Library: `csv`, `os`, `sys`, `typing`)
 - **Persistence**: Atomic CSV File Storage (`students_data.csv`)
 
